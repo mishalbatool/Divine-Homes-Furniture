@@ -1,0 +1,8 @@
+{
+  "name": "Divine Homes Furniture Chiniot",
+  "description": "Luxury handcrafted wooden furniture manufacturer in Chiniot, Pakistan. Specializing in classic Chinioti bedroom sets, royal sofas, dining suites, and bespoke custom furniture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
